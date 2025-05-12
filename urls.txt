@@ -13,3 +13,9 @@ https://lucasfarias072.github.io/mock-web-page-gravidade-avaliacao/
 https://lucasfarias072.github.io/mock-web-page-gravidade-curiosidades/
 https://lucasfarias072.github.io/mock-web-page-gravidade-referencias/
 https://lucasfarias072.github.io/mock-web-page-gravidade-rank-2013/
+
+# Vídeo de demonstração do buscador
+# Recomendo fazer o download do arquivo
+# Motivo: o reprodutor escurece a tela com movimentos de mouse
+https://drive.google.com/file/d/12Fgfi2gw7HCeniEsSojALTzEDnmnlllh/view?usp=sharing
+https://drive.google.com/file/d/12Fgfi2gw7HCeniEsSojALTzEDnmnlllh/view?usp=drive_link
