@@ -1,6 +1,9 @@
 # Buscador-axios-cheerio web-crawling
 ###### Atividade da disciplina de Programação pra Internet I
 
+# Membros da equipe
+###### Lucas Farias Santos de Sousa
+
 # Vídeo de demonstração do buscador
 ###### Recomendo fazer o **download** do arquivo
 ###### Motivo: o reprodutor escurece a tela com movimentos de mouse
